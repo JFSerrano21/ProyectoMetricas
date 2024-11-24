@@ -18,7 +18,8 @@
 
   </dependencies>
 <properties>
-  <sonar.organization>mooc-tutorials</sonar.organization>
+    <sonar.organization>JFSerrano21</sonar.organization>
+    <sonar.projectKey>JFSerrano21_ProyectoMetricas</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
   <build>
